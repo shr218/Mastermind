@@ -5,7 +5,7 @@ This is a simple code breaking game called mastermind.
 The aim of the game is to guess a secret computer generated colour coded sequence with the help of hints.
 The black peg means correct colour in correct position while the white peg means correct colour but wrong position.
 
-It implemented  using  Tkinter python that has a very user friendly GUI.
+It is implemented  using  Tkinter python that has a very user friendly GUI.
 
 
 To run the game dowload all the files from this repository and run intropage.py
